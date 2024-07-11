@@ -1,7 +1,3 @@
-![Curso de Cypress](/capa.png)
-
-Este repositório contém o material do curso de automatização de testes E2E com Cypress 
-
 ## Pré-requisitos
 Para fazer este curso, você precisará ter:
 
