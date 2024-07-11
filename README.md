@@ -12,14 +12,5 @@ Para usar o projeto do curso, siga estas etapas:
 - Instale as dependências com `npm install`
 - Abra o editor de código e navegue até a pasta do curso
 
-## Suporte
-Se você tiver alguma dúvida ou precisar de ajuda, pode entrar em contato com a Camila Pessoa através do GitHub: https://github.com/camilapessoa ou acessar o Fórum da Alura.
-
-## Contribuições
-Se você quiser contribuir para este curso, você pode:
-
-- Criar um pull request com suas alterações
-- Abrir um issue para reportar um problema ou sugerir uma melhoria
-
 ## Links úteis
 Documentação do Cypress: https://docs.cypress.io/
